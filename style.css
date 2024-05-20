@@ -1,17 +1,37 @@
 body {
-html>
-  <head>
-    </head>
-  <body>
-    <h2> Rowan's Website </h2>
-    <center>
-    <img src=https://img.mlbstatic.com/mlb-images/image/upload/t_5x2/t_w640/mlb/rqgvburk3yhse8fpnk0m.jpg
-         <center>
-         <h3> CS Website </h3>
-  </body>
+h2 {
+  color: yellow;
+    font-size: 80px;
+    text-align: center;
+  text-decoration-color: yellow;
+    background-color: #f5ae07;
+  text-decoration-line: underline;
   
   
+    
   
-  <html>
+}
+h3{
+  color: orange;
+  font-size: 50px;
+  text-shadow: 2px 2px 2px yellow;
+  
+}
+body{
+  
+  background-color: #614c13;
+  
+}
+img{
+  
+  width = 25%;
+}
+h2:hover {
+  font-size: 100px;
+}
 
+img:hover{
+  
+ width: 70%;
+}
 }
